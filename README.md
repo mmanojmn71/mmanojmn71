@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Manoj M N 👋
 
-<!--
-**mmanojmn71/mmanojmn71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Artificial Intelligence and Data Science student at REVA University. I am interested in data science, artificial intelligence, web development and IoT.
 
-Here are some ideas to get you started:
+## 🌐 My Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[View My Live Portfolio](https://mmanojmn71.github.io/manoj-portfolio/)
+
+## 🛠 Skills
+
+- Python
+- C Programming
+- React
+- Data Analysis
+- Artificial Intelligence
+- Internet of Things
+- Git and GitHub
+
+## 📫 Connect With Me
+
+- [GitHub](https://github.com/mmanojmn71)
+- [Portfolio](https://mmanojmn71.github.io/manoj-portfolio/)
